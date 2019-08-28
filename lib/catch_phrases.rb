@@ -1,10 +1,10 @@
 def mario
-  _phrase = "It's-a me, Mario!"
-  
+  phrase = "It's-a me, Mario!"
+  status = 'Thank You Mario! But Our Princess Is In Another Castle!'
   puts phrase
 end
 
 def toadstool
-  _status = 'Thank You Mario! But Our Princess Is In Another Castle!'
+  
   puts status
 end
